@@ -10,7 +10,7 @@
 ВО ИЗБЕЖАНИЕ ПРОБЛЕМ ПОЛОЖИТЕ ПАПКУ В КОРЕНЬ ДИСКА С.**
 
 ### Схема подключения
-![GyverBomb](https://github.com/AlexGyver/GyverBomb/blob/master/schemejpg)
+![GyverBomb](https://github.com/AlexGyver/GyverBomb/blob/master/scheme.jpg)
 
 ## Нужная инфа
 ### Страница проекта на моём сайте
