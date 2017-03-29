@@ -33,3 +33,19 @@ http://AlexGyver.ru/gyverbomb/
 ##  Материалы и компоненты
 Почти всё указанное ниже можно найти здесь:  
 http://alexgyver.ru/arduino_shop/
+
+* Arduino http://ali.pub/19iykv
+* Клавиатура http://ali.pub/19iyxp
+* Мембранная http://ali.pub/19iyzu
+* Дисплей http://ali.pub/19iz1e
+* Реле http://ali.pub/19iz2y
+* Кнопка http://ali.pub/19izl1  
+
+* Аккумулятор http://alexgyver.ru/18650/
+* Батарейный отсек http://ali.pub/19iyqi
+* Зарядник + защита http://ali.pub/19iyuz
+* Повышайка http://ali.pub/19iywq
+* Выключатель http://ali.pub/19izpi  
+
+* Усилитель http://ali.pub/19iz62
+* Динамик http://ali.pub/19izhj
