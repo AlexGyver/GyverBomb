@@ -49,3 +49,4 @@ http://alexgyver.ru/arduino_shop/
 
 * Усилитель http://ali.pub/19iz62
 * Динамик http://ali.pub/19izhj
+* Паяльники, припой http://alexgyver.ru/all-for-soldering/
