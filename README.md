@@ -1,5 +1,8 @@
 # Бомба из Counter-Strike на Arduino
 
+**В СВЯЗИ С СИТУАЦИЕЙ В ПИТЕРЕ, ВИДЕО НАХОДИТСЯ В ДОСТУПЕ ПО ССЫЛКЕ**  
+https://youtu.be/5_hCx7RV0-E  
+
 ## Папки
 
 **GyverBomb_libs** - папка с файлами библиотек, установить в C:\Program Files\Arduino\libraries\
