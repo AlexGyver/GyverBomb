@@ -39,27 +39,27 @@ http://AlexGyver.ru/gyverbomb/
 http://alexgyver.ru/arduino_shop/
 
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
+* https://ali.ski/0oDcyt
+* https://ali.ski/JS76Hz
+* https://ali.ski/AkoSus
+* https://ali.ski/SYQCF
 * Giant4 (Россия)
-* Клавиатура https://ali.ski/-JGx-o
+* Клавиатура https://ali.ski/d1TZVr
 * Дисплей – искать
-* https://ali.ski/8pQi9M
-* https://ali.ski/-nBZs
-* https://ali.ski/wumit
+* https://ali.ski/xTB4N
+* https://ali.ski/SmSuHS
+* https://ali.ski/aFK3X
 * Реле
-* https://ali.ski/8U-AdI
-* https://ali.ski/icYDvl
-* Кнопка https://ali.ski/In2iuf
+* https://ali.ski/IW0Fs
+* https://ali.ski/21h0Oq
+* Кнопка https://ali.ski/QapFOn
 * Аккумулятор https://alexgyver.ru/18650/
-* Батарейный отсек https://ali.ski/LXzk4N
-* Зарядник + защита https://ali.ski/pspbG
-* Повышайка https://ali.ski/Qqx8jI
-* Выключатель https://ali.ski/Vdjvjt
+* Батарейный отсек https://ali.ski/wjruv
+* Зарядник + защита https://ali.ski/wWzmZE
+* Повышайка https://ali.ski/zLxTU
+* Выключатель https://ali.ski/hnnOxH
 * Усилитель
-* https://ali.ski/lAGZr
-* https://ali.ski/IwNrn
-* Динамик https://ali.ski/r6757
+* https://ali.ski/sxxrrL
+* https://ali.ski/w_T2oz
+* Динамик https://ali.ski/MCtwMP
 * Паяльники, припой https://alexgyver.ru/all-for-soldering/
